@@ -1,46 +1,24 @@
-<!-- # Hi there, I'm [♛gzf♛!](http://gzf-linktree.great-site.net) 👋  -->
+<!-- # Hello there, I'm [Mohammed!](https://mmabubakar.com) 👋 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=4000&lines=Hello+there%2C+I%27m+♛gzf♛)](http://gzf-linktree.great-site.net)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=4000&lines=Hello+there%2C+it%27s+Mohammed)](https://mmabubakar.com)
 
-Here's [Website]([https://mmabubakar.com])
+Here's [My Website](https://mmabubakar.com)
 <br>
-Here's [My Discord](https://discord.com/users/https://discord.com/users/935053416877666304)
+Here’s [My LinkedIn Profile](https://www.linkedin.com/in/mohammed-mansur-abubakar-b23ba510a/)
 <br>
-![](https://dcbadge.vercel.app/api/shield/935053416877666304)
-<br>
-Here's [My Discord Bot](https://discord.com/users/972866679220617297)
-<br>
-![Typing SVG](https://dcbadge.vercel.app/api/shield/972866679220617297?bot=true)
-<br>
-Here's [My Discord Server](https://discord.gg/Hj9ekSwqrA)
-<br>
-[![](https://dcbadge.vercel.app/api/server/Hj9ekSwqrA)](https://discord.gg/Hj9ekSwqrA)
+Here’s [My Instagram Profile](https://instagram.com/mmabubakar_?igshid=YmMyMTA2M2Y=)
 <br>
 <hr>
 <br>
 My Github Activity
 <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Argzf&theme=discord_old_blurple)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Argzf&theme=discord_old_blurple)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Argzf&theme=discord_old_blurple)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Argzf&theme=discord_old_blurple)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Argzf&theme=discord_old_blurple&utcOffset=3)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mmabubakar&theme=discord_old_blurple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mmabubakar&theme=discord_old_blurple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mmabubakar&theme=discord_old_blurple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mmabubakar&theme=discord_old_blurple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mmabubakar&theme=discord_old_blurple&utcOffset=3)
 
 <hr>
 
-### If you wish to contact me please shoot a mail at [contact@gzf.cool](mailto:contact@gzf.cool)
-<!--
-This is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### If you wish to contact me please shoot a mail at [almansurbukar@gmail.com](mailto:almansurbukar@gmail.com)
