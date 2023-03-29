@@ -4,9 +4,9 @@
 
 Here's [My Website](https://mmabubakar.com)
 <br>
-Here’s [My LinkedIn Profile](https://www.linkedin.com/in/mohammed-mansur-abubakar-b23ba510a/)
+Here’s [My LinkedIn Profile](https://www.linkedin.com/in/mohammed-mansur-abubakar-b23ba510a/)[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mohammed-mansur-abubakar-b23ba510a/)
 <br>
-Here’s [My Instagram Profile](https://instagram.com/mmabubakar_?igshid=YmMyMTA2M2Y=)
+Here’s [My Instagram Profile](https://instagram.com/mmabubakar_?igshid=YmMyMTA2M2Y=) [![Insta](https://skillicons.dev/icons?i=instagram)](https://instagram.com/mmabubakar_?igshid=YmMyMTA2M2Y=)
 <br>
 <hr>
 <br>
